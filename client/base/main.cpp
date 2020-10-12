@@ -1,6 +1,6 @@
 #include <iostream>
 #include "SDL2/SDL.h"
-#include "Server.hpp"
+#include "cComms/Server.hpp"
 #include <stdio.h>
 
 using namespace std;
